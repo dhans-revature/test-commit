@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 i am going adsddalsdjf;lsdjf
 
 
 adsflsdjf;ladsjf
 ding from siva
-=======
-i am going this is the file i am going to edit this one adding from siva
->>>>>>> origin/dhs-1
+i am going this is the file i am going to edit this one adding from siva origin/dhs-1
 
 to add some added o
 
